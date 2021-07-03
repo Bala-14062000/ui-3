@@ -1,0 +1,106 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Quicksand', sans-serif;
+}
+.border{
+    width: 1200px;
+    height: 550px;
+    background-color:#bce2f8;
+    top: 5%;
+    left: 2%;
+    position:fixed;
+    box-sizing: border-box;
+    border-radius: 0px;
+}
+.border p{
+        text-align: center;
+    font-size: 45px;  
+}
+.border h2{
+    text-align: center;
+}
+.box1{
+    width: 325px;
+    height: 300px;
+    background-color:white;
+    top: 45%;
+    left: 5%;
+    position:fixed;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+.box2{
+    width: 325px;
+    height: 300px;
+    background-color:white;
+    top: 45%;
+    left: 36%;
+    position:fixed;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+.box3{
+    width: 325px;
+    height: 300px;
+    background-color:white;
+    border-radius: 20px;
+    top: 45%;
+    left: 68%;
+    position:fixed;
+    box-sizing: border-box;
+ 
+}
+.box1 .img1{
+    padding-top: 20px;
+    padding-left: 20px;
+    max-width: 100%;
+    height: 100px;
+    
+}
+.box2 .img2{
+    padding-top: 20px;
+    padding-left: 20px;
+    max-width: 100%;
+    height: 100px;
+    
+}
+.box3 .img3{
+    padding-top: 20px;
+    padding-left: 20px;
+    max-width: 100%;
+    height: 100px;
+    
+}
+.box1 h1{
+    font-family: 'Reenie Beanie', cursive;
+    padding-left:28px;
+    font-size: 30px;
+    text-align: left;
+    
+}
+.box2 h1{
+    font-family: 'Reenie Beanie', cursive;
+    padding-left:28px;
+    font-size: 30px;
+    text-align: left;
+    
+}
+.box3 h1{
+    font-family: 'Reenie Beanie', cursive;
+    padding-left:28px;
+    font-size: 30px;
+    text-align: left;
+}
+.box1 h3{
+    padding-left: 28px;
+}   
+.box2 h3{
+    padding-left: 28px;
+}   
+.box3 h3{
+    padding-left: 28px;
+}   
